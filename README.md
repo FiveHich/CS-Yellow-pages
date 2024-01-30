@@ -1,8 +1,9 @@
+# CS-Yellow-pages
 <p align="center"><br><br>
   <img src="image.png" alt="GitHub Logo" height="300">
 </p>
-
-# CS-Yellow-pages
+<br>
+<br>
 
 Discover, use, and contribute to our curated cybersecurity Yellow Pages. Access valuable links and resources. Use freely, but share improvements with the community. Let's build a safer online world together! 🛡️🔗 #CyberSecYellowPages
 ### __Table of contents:__
@@ -16,68 +17,58 @@ Discover, use, and contribute to our curated cybersecurity Yellow Pages. Access 
 <br><br>
 
 ### __Payloads And Related Tools:__
-[Online - Reverse Shell Generator](https://www.revshells.com/)
+[Online - Reverse Shell Generator](https://www.revshells.com/) | Online Reverse Shell Generator
 
-[php reverse shell Dot php](https://raw.githubusercontent.com/pentestmonkey/php-reverse-shell/master/php-reverse-shell.php)
+[php reverse shell Dot php](https://raw.githubusercontent.com/pentestmonkey/php-reverse-shell/master/php-reverse-shell.php) | RAW php reverse shell
 
-[Windows PayLoads](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
+[PayloadsAllTheThings](https://swisskyrepo.github.io/InternalAllTheThings/cheatsheets/shell-reverse-cheatsheet/) | Reverse Shell Cheat Sheet
 
-[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
-
-[Reverse Shell Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+[payloads and bypass](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypasses for Web Application Security
 <br><br>
 ### __Exploits and Vulnerability Databases :__
-[ExploitDB Database](https://www.exploit-db.com/)
+[ExploitDB Database](https://www.exploit-db.com/) | The Exploit Database is a CVE compliant archive of public exploits
 
-[Rapid7 Database](https://www.rapid7.com/db/)
+[Rapid7 Database](https://www.rapid7.com/db/) | A curated repository of vetted computer software exploits and exploitable vulnerabilities.
 
-[OWASP Datebase](https://wiki.owasp.org/index.php/OWASP_favicon_database)
+[Linux Kernel CVEs | All CVEs](https://www.linuxkernelcves.com/cves) | Linux Kernel CVEs
 
-[Linux Kernel CVEs | All CVEs](https://www.linuxkernelcves.com/cves)
+[GTFOBins](https://gtfobins.github.io/#) | GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 
-[GTFOBins](https://gtfobins.github.io/#)
-
-[LOLBAS](https://lolbas-project.github.io/#)
-
-[XSS Hunter](https://github.com/mandatoryprogrammer/xsshunter-express)
-
-[XSS Polyglot](https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot)
-
-[payloads and bypass](https://github.com/swisskyrepo/PayloadsAllTheThings)
+[LOLBAS](https://lolbas-project.github.io/#) | LOLBAS is a curated list of Windows binaries that can be used to bypass local security restrictions in misconfigured systems
 <br><br>
 ### __Cryptography And Related:__
-[Base64 Decode](https://www.base64decode.org/)
+[Base64 Decode](https://www.base64decode.org/) | Base64 Decoder
 
-[Base64 Encode](https://www.base64encode.org/)
+[Base64 Encode](https://www.base64encode.org/) | Base64 Encoder
 
-[CyberChef](https://gchq.github.io/CyberChef/)
+[CyberChef](https://gchq.github.io/CyberChef/) | web app for encryption, encoding, compression and data analysis
 
-[CrackStation - Online Password Hash Cracking - MD5, SHA1, Linux, Rainbow Tables, etc.](https://crackstation.net/)
+[CrackStation](https://crackstation.net/) | CrackStation uses massive pre-computed lookup tables to crack password hashes
 <br><br>
 ### __MAN Pages and Cheat Sheets:__
-[Vim Cheat Sheet](https://vim.rtorr.com/)
+[Vim Cheat Sheet](https://vim.rtorr.com/) | Vim cheat sheet, offering clear, concise commands and shortcuts for Vim users
 
-[MSFVenom](https://book.hacktricks.xyz/generic-methodologies-and-resources/shells/msfvenom)
+[MSFVenom](https://book.hacktricks.xyz/generic-methodologies-and-resources/shells/msfvenom) | MSFVenom CheatSheets
+ 
+[Gobuster CheatSheet](https://3os.org/penetration-testing/cheatsheets/gobuster-cheatsheet/) | Gobuster CheatSheets
 
-[Gobuster CheatSheet](https://3os.org/penetration-testing/cheatsheets/gobuster-cheatsheet/)
+[Nmap Cheat Sheet](https://www.comparitech.com/net-admin/nmap-nessus-cheat-sheet/) | Nmap CheatSheets
 
-[Nmap Cheat Sheet](https://www.comparitech.com/net-admin/nmap-nessus-cheat-sheet/)
-
-[nmap man page](https://linux.die.net/man/1/nmap)
-
-[Nmap Script](https://tryhackme.com/room/nmap04)
+[nmap man page](https://linux.die.net/man/1/nmap) | Nmap man page
 <br><br>
 ### __Useful Online Tools:__
-[SecLists](https://github.com/danielmiessler/SecLists/tree/master)
+[XSS Hunter](https://github.com/mandatoryprogrammer/xsshunter-express) | The fastest way to set up XSS Hunter to test and find blind cross-site scripting vulnerabilities.
 
-[dns recon](https://dnsdumpster.com/)
+[SecLists](https://github.com/danielmiessler/SecLists/tree/master) | Collection of multiple types of lists used during security assessments, collected in one place
 
-[Shodan Search Engine](https://www.shodan.io/)
+[dns recon](https://dnsdumpster.com/) | is a FREE domain research tool that can discover hosts related to a domain.
 
-[Home - KYCnot.me](https://kycnot.me/)
+[Shodan Search Engine](https://www.shodan.io/) | The entire Shodan platform (crawling, IP lookups, searching, data streaming)
 
-[NVD - CVSS v3 Calculator](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator)
+[KYCnot](https://kycnot.me/) | Automated tool that checks the ToS of all services and looks for keywords that may indicate that the website is performing KYC practices.
 
-[Find out what websites are built with - Wappalyzer](https://www.wappalyzer.com/)
+[NVD - CVSS v3 Calculator](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator) | Common Vulnerability Scoring System Calculator
 
-[Internet Archive: Wayback Machine](https://archive.org/web/)
+[Wappalyzer](https://www.wappalyzer.com/) | Wappalyzer is a technology profiler that shows you what websites are built with.
+
+[Wayback Machine](https://archive.org/web/) | Archive-It enables you to capture, manage and search collections of digital content without any technical expertise or hosting facilities.
